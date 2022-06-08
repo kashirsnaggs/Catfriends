@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Phoenix Gaming Regular';
+    font-style: normal;
+    font-weight: normal;
+    src: local('Phoenix Gaming Regular'), url('PhoenixGaming-nRJj0.woff') format('woff');
+    }
+
+    h1 {
+        font-family: 'Phoenix Gaming Regular';
+        font-weight: 200;
+        color: #758383;
+    }
